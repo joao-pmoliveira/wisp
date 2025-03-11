@@ -1,0 +1,29 @@
+{
+	"name": "wisp",
+	"version": "0.1.0",
+	"description": "Real-time messaging app",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+ssh://git@github.com/joao-pmoliveira/wisp.git"
+	},
+	"keywords": [
+		"real-time",
+		"chat",
+		"messaging",
+		"instant",
+		"messaging",
+		"express",
+		"node.js",
+		"typescript"
+	],
+	"author": "João Oliveira",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/joao-pmoliveira/wisp/issues"
+	},
+	"homepage": "https://github.com/joao-pmoliveira/wisp#readme"
+}
